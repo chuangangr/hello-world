@@ -5,6 +5,7 @@ with open('./test.txt', 'r') as f:
 t = [e.strip() for e in lines]
 print t
 
+
 tt = [l.strip() for l in open('./test.txt', 'r')]
 print tt
 
