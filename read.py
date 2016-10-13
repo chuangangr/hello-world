@@ -23,4 +23,5 @@ def input_arg2(a, **args):
 	for i in args: 
 		print i
 
+
 input_arg1('input1', {'A':'input2', 'B':'input3', 'C':'input4'})
