@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-Dump version 1
-=======
 Dump Version 2 
+<<<<<<< HEAD
 >>>>>>> 31a0b63930c18ce2f2276ee8c9b9ea85737fd71b
 haha
+=======
+>>>>>>> 6fcc84b5b07eb44a606ce9dbc08f87616a36fa4f
