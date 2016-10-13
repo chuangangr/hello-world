@@ -18,6 +18,8 @@ def input_arg1(a, *args):
 
 input_arg1('input1', 'input2', 'input3', 'input4')
 
+
+
 def input_arg2(a, **args):
 	print("Print out args: %s"% a)
 	for i in args: 
