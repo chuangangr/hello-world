@@ -1,4 +1,10 @@
 THis is some dump
+<<<<<<< HEAD
 i
 this is anohter line
 third line
+=======
+
+
+haha
+>>>>>>> 43b4b6e4f8be2821588fb907fd948df5e479f440
