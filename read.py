@@ -11,6 +11,7 @@ print tt
 
 a = [1,2,3,4]
 print map(lambda i: 2*i, a)
+print filter(lambda i: i > 2, a)
 
 def input_arg1(a, *args):
 	print("Print out args: %s"% a)
@@ -24,7 +25,7 @@ input_arg1('input1', 'input2', 'input3', 'input4')
 def input_arg2(a, **args):
 	print("Print out args: %s"% a)
 	for i in args: 
-		print i
+		print "key: ", i, ", Value: ", args[i] 
 
 
-input_arg1('input1', {'A':'input2', 'B':'input3', 'C':'input4'})
+input_arg2('input1', baba='input2', mama='input3')
